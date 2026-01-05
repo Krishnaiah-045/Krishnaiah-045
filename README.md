@@ -32,6 +32,13 @@ Electronics and Communication Engineering graduate specializing in **Embedded Sy
 
 ### 🎯 Embedded Systems & Hardware
 
+#### 🛸 [Advanced Drone Detection System](link-to-repo)
+AI-powered drone detection using CNN and YOLOv3 with real-time alerts
+- **Tech Stack**: `YOLOv3` `ESP32` `CNN` `IoT` `Servo Motors`
+- Published research paper on high-precision aerial vehicle identification
+- Real-time alert mechanisms addressing security breach risks
+- Integrated microcontroller with machine learning for intelligent detection
+
 #### 🤖 [Human-Following Robot](link-to-repo)
 Autonomous robot using ultrasonic sensors and Arduino for real-time human detection and following
 - **Tech Stack**: `Arduino` `Ultrasonic Sensors` `Motor Control` `TT Gear Motors`
@@ -83,11 +90,6 @@ Menu-driven contact management application with persistent storage
 - Partial and full contact search capabilities
 - Data persistence ensuring contacts survive program restarts
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
